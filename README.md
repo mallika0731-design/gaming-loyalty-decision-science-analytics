@@ -60,37 +60,37 @@ Loyalty Score =
 ## 📸 Visual Insights
 
 ### 📈 Loyalty Score Distribution
-![Visual 1](visual 1.png)
+![Visual 1](visual%201.png)
 
 ### 🏆 Leaderboard Analysis
-![Visual 2](visual 2.png)
+![Visual 2](visual%202.png)
 
 ### 🔗 Correlation Analysis
-![Visual 3](visual 3.png)
+![Visual 3](visual%203.png)
 
 ### ⏱️ Slot-wise Engagement
-![Visual 4](visual 4.png)
+![Visual 4](visual%204.png)
 
 ### 📊 Player Activity Trends
-![Visual 5](visual 5.png)
+![Visual 5](visual%205.png)
 
 ### 📉 Deposit vs Withdrawal Patterns
-![Visual 6](/visual 6.png)
+![Visual 6](/visual%206.png)
 
 ### 🎯 Games Played Distribution
-![Visual 7](visual 7.png)
+![Visual 7](visual%207.png)
 
 ### 🧩 Player Segmentation Visualization
-![Visual 8](visual 8.png)
+![Visual 8](visual%208.png)
 
 ### 📌 Efficiency (Points per Game)
-![Visual 9](visual 9.png)
+![Visual 9](visual%209.png)
 
 ### 📈 Monthly Performance Trends
-![Visual 10](visual 10.png)
+![Visual 10](visual%2010.png)
 
 ### 🔍 Additional Insights
-![Visual 11](visual 11.png)
+![Visual 11](visual%2011.png)
 
 ---
 
